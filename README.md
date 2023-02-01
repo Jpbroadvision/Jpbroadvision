@@ -1,4 +1,5 @@
 # John Paul Kpantey
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jpbroadvision/README.md" alt="Jpbroadvision"> 
 ### I'm a software Engineer with 2+ years of experience. I solve problems using Python, Javascript and Java languages. 
 
 ⤷ I work with flask, React and spring boot frameworks and manipulate data using SQLite, Postgres and MySql.
