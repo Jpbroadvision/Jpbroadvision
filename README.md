@@ -1,12 +1,12 @@
 # John Paul Kpantey <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Jpbroadvision/README.md" alt="Jpbroadvision"> 
-### I'm a software Engineer with 2+ years of experience. I solve problems using Python, Javascript and Java languages. 
+### I'm a Software Engineer with 3+ years of experience. I solve problems using Python, Javascript and Java languages. 
 
-⤷ I work with flask, React and spring boot frameworks and manipulate data using SQLite, Postgres and MySql.
+⤷ I work with Flask, React and Spring boot frameworks and manipulate data using SQLite, Postgres and MySql.
 I work with teams in an agile way such as SCRUM
 
  <a aligh="left" href="https://https://jpbroadvision.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:paulkpantey@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/https://twitter.com/PaulKpantey" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/https://www.linkedin.com/in/johnpaulkpantey/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-⚐ Based in Greater-Accra - Ghana
+⚐ Based in Greater Accra - Ghana
 
 
 
